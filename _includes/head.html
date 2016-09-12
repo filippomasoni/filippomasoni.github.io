@@ -1,0 +1,45 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.title }} | {{ site.title }} {% endif %}">
+
+<!-- Disable tap highlight on IE -->
+<meta name="msapplication-tap-highlight" content="no">
+
+<!-- Web Application Manifest -->
+<link rel="manifest" href="manifest.json">
+
+<!-- Add to homescreen for Chrome on Android -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Web Starter Kit">
+<link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+<!-- Add to homescreen for Safari on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Web Starter Kit">
+<link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png">
+
+<!-- Tile icon for Win8 (144x144 + tile color) -->
+<meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+<meta name="msapplication-TileColor" content="#fe8764">
+
+<!-- Color the status bar on mobile devices -->
+<meta name="theme-color" content="#fe8764">
+
+
+<!-- Custom CSS -->
+<style media="screen">
+#warning { position:fixed; top:40%; bottom:40%; left:0px; right:0px; background:#66718B; font-family:"Arial",sans-serif; z-index: 999;}
+  #warning a.closeThis { position:absolute; top:20px; right:20px; display:block; width:20px; height:20px; font-size:30px; line-height:20px; text-align:center; color:#fff; text-decoration:none; text-shadow:-1px -1px #a63922; }
+  #warning .warningContent { position:absolute; top:50%; left:50%; margin:-40px 0px 0px -170px; display:block; width:380px; height:80px; color:#f6e2dd; text-shadow:-1px -1px #a63922; }
+    #warning .warningContent span { font-size:81px; font-weight:bold; line-height:93px; display:block; width:20px; float:left; margin-right:5px; }
+    #warning .warningContent .wHeading { font-size:38px; font-weight:bold; line-height:45px; margin:0px; letter-spacing:-2px; }
+    #warning .warningContent p { font-size:14px; font-weight:regular; line-height:16px; letter-spacing:0px; margin:0px; padding:0px; }
+    #warning .warningContent p a { font-size:14px; font-weight:regular; color:#ff5559; text-decoration:underline; }
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Exo+2:100,200,400" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.min.css">

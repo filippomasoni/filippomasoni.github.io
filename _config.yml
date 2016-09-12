@@ -1,0 +1,24 @@
+name: Filippo Masoni
+title: Filippo Masai Masoni
+markdown: kramdown
+exclude: ["node_modules", "gulpfile.js", "package.json", "readme.md"]
+
+nav:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Blog"
+      url: /blog/
+    - title: "Projects"
+      url: /projects/
+
+nav_en:
+    - title: "Home"
+      url: /
+    - title: "About"
+      url: /about/
+    - title: "Blog"
+      url: /blog/
+    - title: "Projects"
+      url: /projects/

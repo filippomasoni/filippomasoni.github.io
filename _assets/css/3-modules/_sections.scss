@@ -1,0 +1,34 @@
+article{
+    margin: 25px auto;
+    @include card(1);
+    background-color: #fff;
+    padding: 15px;
+    @include media-breakpoint-up(sm){
+        padding: 25px;
+    }
+    h2{
+        color: $brand-info;
+        font-weight: 100;
+    }
+}
+.insta-wrapper{
+    @include media-breakpoint-up(sm){
+        margin: 50px;
+    }
+}
+article.about-home{
+    @include media-breakpoint-up(sm){
+        margin: 50px;
+    }
+}
+.bkg-img{
+    margin-top: 20px;
+    width: 100%;
+    height: 300px;
+    @include media-breakpoint-up(sm){
+        height: 600px;
+    }
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-6">
+        <article class="about-home">
+            <h2>{{ page.title }}</h2>
+            {{content}}
+        </article>
+    </div>
+    <div class="col-md-6">
+        <div class="insta-wrapper">
+            <figure class="figure">
+                <img src="/assets/img/photo/{{ page.img }}" class="figure-img img-fluid img-rounded" alt="{{ img | replace: '-', ' ' | remove: '.jpg' }}">
+                <figcaption class="figure-caption text-xs-right">{{ page.figcaption }}</figcaption>
+            </figure>
+        </div>
+
+    </div>
+</div>

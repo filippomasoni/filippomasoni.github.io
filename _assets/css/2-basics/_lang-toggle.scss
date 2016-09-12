@@ -1,0 +1,21 @@
+.lang-toggle{
+    a.lang-link{
+        display: inline-block;
+        font-size: 14px;
+        line-height: 20px;
+        margin: 0;
+        padding: 0;
+
+        img{
+            width: auto;
+            height: 10px;
+            margin-right: 5px;
+            display: inline-block;
+            vertical-align: baseline;
+        }
+        &.not-active-lang{
+            filter: grayscale(70%);
+        }
+    }
+
+}
