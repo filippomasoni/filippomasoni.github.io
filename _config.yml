@@ -13,12 +13,29 @@ nav:
     - title: "Projects"
       url: /projects/
 
-nav_en:
+nav_it:
     - title: "Home"
-      url: /
+      url: /it/
     - title: "About"
-      url: /about/
+      url: /it/about/
     - title: "Blog"
       url: /blog/
     - title: "Projects"
       url: /projects/
+
+
+instagram-app: "instagram://user?username=filippomasoni"
+facebook-app: "fb://profile/filippo.masoni"
+youtube-app: "vnd.youtube://user/fantastik529"
+linkedin-app: "linkedin://profile?id=filippomasoni"
+twitter-app: "twitter://user?screen_name=filo91"
+spotify-app: "spotify:user:masai91"
+gplus-app: "gplus://plus.google.com/117634922263167545652"
+
+instagram-link: "https://www.instagram.com/filippomasoni/"
+facebook-link: "https://www.facebook.com/filippo.masoni"
+youtube-link: "https://www.youtube.com/user/fantastik529"
+linkedin-link: "https://www.linkedin.com/in/filippomasoni"
+twitter-link: "https://twitter.com/filo91"
+spotify-link: "https://open.spotify.com/user/masai91"
+gplus-link: "https://plus.google.com/u/0/+FilippoMasoni"

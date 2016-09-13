@@ -80,3 +80,17 @@ footer{
         }
     }
 }
+
+.social-links{
+    font-size: 2rem;
+    a{
+        color: $brand-info;
+        text-decoration: none;
+        margin: 0 15px;
+        transition: color 0.4s;
+        &:hover,:focus{
+            text-decoration: none;
+            color: $brand-primary;
+        }
+    }
+}
