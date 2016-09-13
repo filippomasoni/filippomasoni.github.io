@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-img: me-01.jpg
+img: me-2.jpg
 figcaption: Me in the glades
 ---
 

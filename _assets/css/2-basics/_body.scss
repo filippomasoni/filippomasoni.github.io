@@ -20,14 +20,14 @@ body{
     &::after{
         content: "";
         display: block;
-        height: 300px;
+        height: 150px;
     }
 }
 
 footer{
     position: absolute;
     width: 100%;
-    min-height: 300px;
+    min-height: 150px;
     background-color: $brand-dark;
     color: #eee;
     z-index: 3;

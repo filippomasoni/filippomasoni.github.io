@@ -18,6 +18,9 @@ article{
     @include media-breakpoint-up(sm){
         margin: 50px;
     }
+    figure{
+        max-width: 100%;
+    }
 }
 article.about-home{
     @include media-breakpoint-up(sm){
