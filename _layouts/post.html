@@ -4,10 +4,25 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-xs-12">
-            <article>
-                <h1 class="section-title">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
-                <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
-                {{content}}
+            <article itemscope itemtype="http://schema.org/BlogPosting">
+                <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+                <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
+                <header>
+                    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+                        {% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
+                    </time>
+                    <h1 class="section-title" itemprop="name">
+                        <a href="{{ page.url }}" itemprop="url">
+                            {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
+                        </a>
+                    </h1>
+                </header>
+                <section itemprop="description">
+                    <p>{{ page.description }}</p>
+                </section>
+                <div class="entry" itemprop="articleBody">
+                    {{ content }}
+                </div>
                 <div class="section-line reverse"><a href="{{ site.url}}/blog">Back to posts</a> <em>/</em></div>
             </article>
         </div>

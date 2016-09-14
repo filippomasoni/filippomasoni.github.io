@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Florida roadtrip 2016"
-excerpt: "We traveled 13 days, made 1600 miles around Florida"
+description: "We traveled 13 days, made 1600 miles around Florida"
 image: "https://c1.staticflickr.com/9/8017/28693417264_7a5f507863_h.jpg"
 tags:
   - photography

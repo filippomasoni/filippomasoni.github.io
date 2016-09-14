@@ -2,6 +2,7 @@ name: Filippo Masoni
 title: Filippo Masai Masoni
 markdown: kramdown
 exclude: ["node_modules", "gulpfile.js", "package.json", "readme.md"]
+permalink: /blog/:categories/:year/:month/:day/:title/
 
 nav:
     - title: "Home"
