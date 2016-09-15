@@ -6,10 +6,22 @@ figcaption: Selfie nelle Everglades
 ---
 
 
-My name is Filippo Masoni, I'm from Santa Croce sull'Arno (PI), Italy and I'm 25 years old. Well, for now I am, I was born in 1991, so if I don't update this before next year (I probably will), you can keep track on your own.
+Mi chiamo Filippo Masoni, vengo da Santa Croce sull'Arno (PI) e ho 25 anni, almeno per adesso. Sono nato nel nel 1991, quindi se non aggiorno questa pagina (lo farò sicuramente), potete tenere traccia da soli.
 
-I started my formation career in Italy quickly falling in love with technology, then I moved to California to continue to College and then came back, because, well Italy is the most beautiful country in the world. But also to make Italy a better place with the use of modern technology. 😉
+Ho iniziato la mia carriera di formazione in Italia e da subito ho capito che la mia passione era la tecnologia, mi sono poi trasferito in California per continuare gli studi al Santa Monica College a Los Angeles. Sono poi tornato in Italia dopo la laurea, perchè l'Italia alla fine dei conti è il paese più bello al mondo. 😉
 
-I currently work as a freelance web developer. I like to make blazing fast, modern websites. I like to travel, take photographs and make films.
+Attualmente lavoro come sviluppatore web freelance. Mi piace realizzare siti web veloci, moderni e funzionali. Amo viaggiare, scattando fotografie e piccoli film.
 
-I'm always on the look for small projects to takle, so if you have something on your mind, shoot me an email:     f.masoni@­gmail.com
+Sono sempre in cerca di nuovi progetti da sviluppare, se hai qualcosa in mente, scrivimi una email:
+
+<a
+class='email
+href="mailto:x@y"
+'
+href
+ =	'
+&#x20;m&#x61;&#x69;l&#x74;&#111;&#x3A;%&#50;&#x30;&#x25;6&#x36;&#37;2&#x65;%&#54;&#x64;&#x61;&#x25;7&#51;%&#x36;&#x66;%6&#101;&#105;%4&#x30;&#x25;&#x36;&#55;m&#x61;i&#x6c;&#37;&#x32;&#x65;&#x63;o&#x6d;&#x3f;
+'>&#x66;&#46;m&#x61;&#x73;&#111;&#110;i@<!--
+mailto:abuse@hotmail.com
+</a>
+-->&shy;&#x67;&#109;a&#105;&#x6C;&#46;&#x63;&#x6F;&#109;</a>

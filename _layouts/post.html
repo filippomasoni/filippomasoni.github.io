@@ -4,14 +4,14 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-xs-12">
+            <hr class="article-date-hr">
+            <time class="icon icon-date article-date" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+                {% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
+            </time>
             <article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
                 <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
                 <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
                 <header>
-                    <time class="icon icon-date" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
-                        {% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
-                    </time>
-                    <hr>
                     <h1 class="section-title" itemprop="name">
                         <a href="{{ page.url }}" itemprop="url">
                             {{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}
@@ -19,9 +19,9 @@ layout: default
                     </h1>
                 </header>
                 <section class="description" itemprop="description">
+                    <div class="icon icon-down-open-big"></div>
+                    <div class="icon icon-down-open-mini"></div>
                     <p>
-                        <span class="icon icon-right-open-big"></span>
-                        <span class="icon icon-right-open-mini"></span>
                         {{ page.description }}
                     </p>
                 </section>
