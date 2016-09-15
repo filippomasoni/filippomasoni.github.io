@@ -14,17 +14,7 @@ article, .article{
         width: 100%;
     }
 }
-.blog-list-article{
-    @include media-breakpoint-up(sm){
-        padding: 25px 10px;
-    }
-    img{
-        @include media-breakpoint-up(sm){
-            margin: -25px;
-            float: right;
-        }
-    }
-}
+
 .insta-wrapper{
     @include media-breakpoint-up(sm){
         margin: 50px;
