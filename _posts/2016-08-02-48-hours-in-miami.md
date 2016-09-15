@@ -2,7 +2,7 @@
 layout: post
 title: "72 Hours in Miami"
 description: "First part of out Florida roadtrip"
-image: "https://c1.staticflickr.com/9/8017/28693417264_7a5f507863_h.jpg"
+image: "https://c1.staticflickr.com/9/8017/28693417264_0686775f52.jpg"
 tags:
   - photography
   - florida

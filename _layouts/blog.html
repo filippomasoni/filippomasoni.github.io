@@ -4,7 +4,7 @@ layout: default
 <div class="container">
     {% for post in site.posts %}
     <hr class="article-date-hr">
-    <time class="icon icon-date article-date" itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+    <time class="icon icon-calendar-1 article-date" itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
         {% if post.date %}{{ post.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
     </time>
     <article class="row article blog-list-article" itemscope="" itemtype="http://schema.org/Blog">

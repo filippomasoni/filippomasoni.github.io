@@ -2,7 +2,7 @@
 layout: post
 title: "48 Hours in the Glades"
 description: "Gators, airboats and mangroves for days!"
-image: "https://c1.staticflickr.com/9/8522/28709182504_d32488b77d.jpg"
+image: "https://c1.staticflickr.com/9/8056/28821897044_c2c8a41d39.jpg"
 tags:
   - photography
   - florida

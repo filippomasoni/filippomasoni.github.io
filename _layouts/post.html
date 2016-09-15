@@ -5,7 +5,7 @@ layout: default
     <div class="row">
         <div class="col-xs-12">
             <hr class="article-date-hr">
-            <time class="icon icon-date article-date" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+            <time class="icon icon-calendar-1 article-date" itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
                 {% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
             </time>
             <article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
