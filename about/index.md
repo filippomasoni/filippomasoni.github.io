@@ -12,7 +12,10 @@ I started my formation career in Italy quickly falling in love with technology, 
 
 I currently work as a freelance web developer. I like to make blazing fast, modern websites. I like to travel, take photographs and make films.
 
-I'm always on the look for small projects to takle, so if you have something on your mind, shoot me an email:     
+
+I'm part of the ![Crazyrun](http://www.crazyrun.org/) staff, I'm mainly in charge of the social network side and media creation, for the events and promotions. On the Facebook page: ![facebook.com/crzrun](https://www.facebook.com/crzrun/) you can check out the latest video I edited and partly filmed and some of my photos.
+
+I'm always on the look for small projects to tackle, so if you have something on your mind, shoot me an email:     
 
 <a
 class='email

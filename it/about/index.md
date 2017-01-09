@@ -10,7 +10,9 @@ Mi chiamo Filippo Masoni, vengo da Santa Croce sull'Arno (PI) e ho 25 anni, alme
 
 Ho iniziato la mia carriera di formazione in Italia e da subito ho capito che la mia passione era la tecnologia, mi sono poi trasferito in California per continuare gli studi al Santa Monica College a Los Angeles. Sono poi tornato in Italia dopo la laurea, perchè l'Italia alla fine dei conti è il paese più bello al mondo. 😉
 
-Attualmente lavoro come sviluppatore web freelance. Mi piace realizzare siti web veloci, moderni e funzionali. Amo viaggiare, scattando fotografie e piccoli film.
+Attualmente lavoro come sviluppatore web freelance. Mi piace realizzare siti web veloci, moderni e funzionali. Amo viaggiare, scattando fotografie e video.
+
+Faccio parte dello staff ![Crazyrun](http://www.crazyrun.org/), principalmente mi occupo della gestione social e creazione contenuti multimediali, per eventi e promozione. Sulla pagina Facebook: ![facebook.com/crzrun](https://www.facebook.com/crzrun/) potete vedere gli ultimi video da me montati e in parte girati ed alcune delle mie foto.
 
 Sono sempre in cerca di nuovi progetti da sviluppare, se hai qualcosa in mente, scrivimi una email:
 
