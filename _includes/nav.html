@@ -15,12 +15,20 @@
             {% endfor %}
         {% endif %}
         <li class="nav-link lang-toggle">
-            <a class="lang-link {% if page.url contains "/it/" %} not-active-lang {% endif %}" href="{{ site.url }}{{ page.url | remove: "/it" }}"><img src="/assets/img/Flag_of_the_United_Kingdom.svg" alt="English" />EN</a>
+            <a class="lang-link {% if page.url contains "/it/" %} not-active-lang {% endif %}"
+                href="{{ site.url }}{{ page.url | remove: "/it" | remove: "/en" | prepend: "/en"}}">
+                <img src="/assets/img/Flag_of_the_United_Kingdom.svg" alt="English" />
+                EN
+            </a>
         </li>
-        {% unless page.url contains "/blog/" or page.url contains "/projects/" %}
+        {% unless page.url contains "/blog/" %}
         |
         <li class="nav-link lang-toggle last-li">
-            <a class="lang-link {% unless page.url contains "/it/" %} not-active-lang {% endunless %}" href="{{ site.url }}{% unless page.url contains "/it/" or page.url contains "/blog/" or page.url contains "/projects/" %}/it{% endunless %}{{ page.url }}"><img src="/assets/img/Flag_of_Italy.svg" alt="English" />IT</a>
+            <a class="lang-link {% unless page.url contains "/it/" %} not-active-lang {% endunless %}"
+                href="{{ site.url }}{{ page.url | remove: "/it" | remove: "/en" | prepend: "/it"}}">
+                <img src="/assets/img/Flag_of_Italy.svg" alt="Italian" />
+                IT
+            </a>
         </li>
         {% endunless %}
     </ul>

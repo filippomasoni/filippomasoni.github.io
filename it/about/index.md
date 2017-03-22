@@ -6,11 +6,12 @@ figcaption: Selfie nelle Everglades
 ---
 
 
-Mi chiamo Filippo Masoni, vengo da Santa Croce sull'Arno (PI) e ho 25 anni, almeno per adesso. Sono nato nel nel 1991, quindi se non aggiorno questa pagina (lo farò sicuramente), potete tenere traccia da soli.
+Mi chiamo Filippo Masoni, sono di Santa Croce sull'Arno (PI) e ho 26 anni, almeno per adesso. Sono nato  nel 1991, quindi se non aggiorno questa pagina (lo farò sicuramente), potete tenere traccia da soli.
 
 Ho iniziato la mia carriera di formazione in Italia e da subito ho capito che la mia passione era la tecnologia, mi sono poi trasferito in California per continuare gli studi al Santa Monica College a Los Angeles. Sono poi tornato in Italia dopo la laurea, perchè l'Italia alla fine dei conti è il paese più bello al mondo. 😉
 
 Attualmente lavoro come sviluppatore web freelance. Mi piace realizzare siti web veloci, moderni e funzionali. Amo viaggiare, scattando fotografie e video.
+[Guarda i progetti che ho realizzato]({{ site.url }}/it/projects)
 
 Faccio parte dello staff [Crazyrun](http://www.crazyrun.org/), principalmente mi occupo della gestione social e creazione contenuti multimediali, per eventi e promozione. Sulla pagina Facebook: [facebook.com/crzrun](https://www.facebook.com/crzrun/) potete vedere gli ultimi video da me montati e in parte girati ed alcune delle mie foto.
 

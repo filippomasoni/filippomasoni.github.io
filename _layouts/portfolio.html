@@ -5,26 +5,24 @@ layout: default
     <div class="blog-header">
         {{ content }}
     </div>
-    {% for post in site.categories.blog %}
+    {% for project in site.categories.projects %}
     <hr class="article-date-hr">
     <time class="icon icon-calendar-1 article-date" itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
-        {% if post.date %}{{ post.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
+        {% if project.date %}{{ project.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}
     </time>
     <article class="row article blog-list-article" itemscope="" itemtype="http://schema.org/Blog">
         <div class="col-md-6 left-block-pad" itemprop="blogPost" itemscope="" itemtype="http://schema.org/BlogPosting">
 
             <h2>
-              <a href="{{ site.url }}{{ post.url }}" class="post-title" itemprop="url">
-                <span itemprop="name">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
-              </a>
+              <span itemprop="name">{{ project.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
               <meta itemprop="keywords" content="{{ post.tags | join: ',' }}" />
             </h2>
 
             <hr>
-            <p itemprop="description">{{ post.content | strip_html | truncatewords:10 }}</p>
+            <p itemprop="description">{{ project.content }}</p>
         </div>
         <div class="col-md-6 right-block-nopad">
-            <img src="{{ post.image }}" class="figure-img img-fluid img-rounded" alt="{{ img | replace: '-', ' ' | remove: '.jpg' }}">
+            <img src="{{ project.image }}" class="figure-img img-fluid img-rounded" alt="{{ img | replace: '-', ' ' | remove: '.jpg' }}">
         </div>
     </article>
     {% endfor %}

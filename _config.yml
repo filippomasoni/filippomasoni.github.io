@@ -6,13 +6,13 @@ permalink: /blog/:categories/:year/:month/:day/:title/
 
 nav:
     - title: "Home"
-      url: /
+      url: /en/
     - title: "About"
-      url: /about/
+      url: /en/about/
     - title: "Blog"
-      url: /blog/
+      url: /en/blog/
     - title: "Projects"
-      url: /projects/
+      url: /en/projects/
 
 nav_it:
     - title: "Home"
@@ -20,14 +20,14 @@ nav_it:
     - title: "About"
       url: /it/about/
     - title: "Blog"
-      url: /blog/
-    - title: "Projects"
-      url: /projects/
+      url: /en/blog/
+    - title: "Progetti"
+      url: /it/projects/
 
 
 instagram-app: "instagram://user?username=filippomasoni"
 facebook-app: "fb://profile/filippo.masoni"
-youtube-app: "vnd.youtube://user/fantastik529"
+youtube-app: "vnd.youtube://user/filippomasoni"
 linkedin-app: "linkedin://profile?id=filippomasoni"
 twitter-app: "twitter://user?screen_name=filo91"
 spotify-app: "spotify:user:masai91"
@@ -35,7 +35,7 @@ gplus-app: "gplus://plus.google.com/117634922263167545652"
 
 instagram-link: "https://www.instagram.com/filippomasoni/"
 facebook-link: "https://www.facebook.com/filippo.masoni"
-youtube-link: "https://www.youtube.com/user/fantastik529"
+youtube-link: "https://www.youtube.com/filippomasoni"
 linkedin-link: "https://www.linkedin.com/in/filippomasoni"
 twitter-link: "https://twitter.com/filo91"
 spotify-link: "https://open.spotify.com/user/masai91"
