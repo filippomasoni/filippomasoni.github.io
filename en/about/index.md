@@ -6,14 +6,14 @@ figcaption: Me in the glades
 ---
 
 
-My name is Filippo Masoni, I'm from Santa Croce sull'Arno (PI), Italy and I'm 25 years old. Well, for now I am, I was born in 1991, so if I don't update this before next year (I probably will), you can keep track on your own.
+My name is Filippo Masoni, I'm from Santa Croce sull'Arno (PI), Italy and I'm 26 years old. Well, for now I am, I was born in 1991, so if I don't update this before next year (I probably will), you can keep track on your own.
 
 I started my formation career in Italy quickly falling in love with technology, then I moved to California to continue to College and then came back, because, well Italy is the most beautiful country in the world. 😉
 
 I currently work as a freelance web developer. I like to make blazing fast, modern websites. I like to travel, take photographs and make films.
 
 
-I'm part of the  [Crazyrun](http://www.crazyrun.org/) staff, I'm mainly in charge of the social network side and media creation, for the events and promotions. On the Facebook page: [facebook.com/crzrun](https://www.facebook.com/crzrun/) you can check out the latest video I edited and partly filmed and some of my photos.
+I'm part of the  [Crazyrun](http://www.crazyrun.org/){:target="_blank"} staff, I'm mainly in charge of the social network side and media creation, for the events and promotions. On the Facebook page: [facebook.com/crazyrunofficial](https://www.facebook.com/crazyrunofficial/){:target="_blank"} you can check out the latest video I edited and partly filmed and some of my photos.
 
 I'm always on the look for small projects to tackle, so if you have something on your mind, shoot me an email:     
 
