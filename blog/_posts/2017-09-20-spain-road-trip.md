@@ -12,11 +12,27 @@ tags:
 <div class="embed-responsive embed-responsive-16by9">
     <iframe src="https://www.youtube.com/embed/h9YB48X12aQ" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="embed-responsive embed-responsive-16by9">
     <iframe src="https://www.youtube.com/embed/k6p4hemVGJA" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="embed-responsive embed-responsive-16by9">
     <iframe src="https://www.youtube.com/embed/Q4bwbbJt3nU" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/w9F9SpZjeFk" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/Chisi2x3Vwc" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/P2213SqQlr8" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe src="https://www.youtube.com/embed/Ca545Bo-V7U" frameborder="0" allowfullscreen></iframe>
 </div>
